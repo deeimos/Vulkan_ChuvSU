@@ -1,6 +1,6 @@
 #pragma once
 
-#include "LveWindow.h"
+#include "Window.h"
 
 class FirstApp
 {
@@ -10,6 +10,6 @@ public:
 
 	void run();
 private:
-	LveWindow lveWindow{ WIDHT, HEIGHT, "Hello Vulkan!" };
+	Window Window{ WIDHT, HEIGHT, "Hello Vulkan!" };
 };
 

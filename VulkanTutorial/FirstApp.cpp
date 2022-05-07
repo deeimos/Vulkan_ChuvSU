@@ -2,7 +2,7 @@
 
 void FirstApp::run()
 {
-	while (!lveWindow.shouldClose())
+	while (!Window.shouldClose())
 	{
 		glfwPollEvents();
 	}
