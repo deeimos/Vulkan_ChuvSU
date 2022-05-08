@@ -1,6 +1,0 @@
-﻿  FirstApp.cpp
-  Window.cpp
-  main.cpp
-  Создание кода...
-LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
-  VulkanTutorial.vcxproj -> D:\CHGU\Vulkan\VulkanTutorial_02\x64\Debug\VulkanTutorial.exe
